@@ -1,5 +1,5 @@
 # Problem number 12
-##Nutrition.
+## Nutrition.
 
 #### The number of calories corresponding to sandwich-type foods served in a fast food establishment are presented below:
 ```
@@ -17,9 +17,9 @@
 
 
 ### TEAM 
-`Dilan Emir Angeles Martínez  (230110252)` : <http://dangeles05.github.io> 
-`Christopher Axel Leon Perez (230110359)`:<https://github.com/LeonChristop>
-`Dulce Karen Gonzalez Yañez (230110320)`  <https://gonzalezkarencin.github.io>
+- `Dilan Emir Angeles Martínez  (230110252)` : <http://dangeles05.github.io> 
+- `Christopher Axel Leon Perez (230110359)`: <https://github.com/LeonChristop>
+- `Dulce Karen Gonzalez Yañez (230110320)` : <https://gonzalezkarencin.github.io>
 
 
 ### End
